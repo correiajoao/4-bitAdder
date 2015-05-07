@@ -71,9 +71,9 @@ int main(int argc, char *argv[ ]){
 	carryIn = carryOut; 
 	
 	if(carryIn == 1){
-		printf("%d %d %d %d %d\n", carryIn, res[0],res[1],res[2],res[3]);
+		printf("%d%d%d%d%d\n", carryIn, res[0],res[1],res[2],res[3]);
 	}else{
-		printf("%d %d %d %d\n", res[0],res[1],res[2],res[3]);
+		printf("%d%d%d%d\n", res[0],res[1],res[2],res[3]);
 			
 	}		
 
