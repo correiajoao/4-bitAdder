@@ -1,4 +1,4 @@
-/* Universidade Federal de Alagoas - Campus A.C. Simões
+/* Universidade Federal de Alagoas - Campus A.C. Simões - 30/04/2015
 *  Developer: João Lucas Marques Correia
 *  Description: Four bits adder
 *  Repository: https://github.com/correiajoao/4-bitAdder.git
@@ -79,3 +79,5 @@ int main(int argc, char *argv[ ]){
 
 	return 0;
 }
+
+
